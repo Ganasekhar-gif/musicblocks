@@ -38,7 +38,7 @@ msgstr "अपनी भाषा पसंद बदलने के लिए 
 
 #: js/languagebox.js:229
 msgid "Music Blocks is already set to this language."
-msgstr " म्यूजिक ब्लॉक्स पहले से ही इस भाषा पर सेट है।"
+msgstr " म्यूजिक ब्लॉक्स पहले से ही इस भाषा पर सेट है"
 
 #: js/planetInterface.js:131
 msgid "project undefined"
@@ -105,7 +105,7 @@ msgstr "बतख"
 
 #: js/themebox.js:66
 msgid "Music Blocks is already set to this theme."
-msgstr ""
+msgstr "संगीत ब्लॉक पहले से ही इस थीम पर सेट है"
 
 #: js/SaveInterface.js:59
 #: js/SaveInterface.js:61
@@ -243,19 +243,19 @@ msgstr "ब्लॉक्स के लिए खोजें"
 
 #: js/activity.js:1359
 msgid "Are you sure you want to clear the workspace?"
-msgstr ""
+msgstr "क्या आप वाकई कार्यस्थान खाली करना चाहते हैं?"
 
 #: js/activity.js:1578
 msgid "Enter file name"
-msgstr ""
+msgstr "फ़ाइल नाम दर्ज करें"
 
 #: js/activity.js:1580
 msgid "File save canceled"
-msgstr ""
+msgstr "फ़ाइल सहेजना रद्द"
 
 #: js/activity.js:1599
 msgid "Click on stop saving"
-msgstr ""
+msgstr "सेव करना बंद करें पर क्लिक करें"
 
 #: js/activity.js:1884
 msgid "Catching mice"
@@ -584,20 +584,20 @@ msgstr "ब्लॉक छुपाएँ"
 #: js/activity.js:3659
 #: js/activity.js:3674
 msgid "Trash can is empty."
-msgstr ""
+msgstr "कूड़ेदान खाली है|"
 
 #: js/activity.js:3681
 #: js/activity.js:3762
 msgid "Item restored from the trash."
-msgstr ""
+msgstr "आइटम को कचरे से पुनः स्थापित किया गया।"
 
 #: js/activity.js:3820
 msgid "Restore last item"
-msgstr ""
+msgstr "अंतिम आइटम पुनर्स्थापित करें"
 
 #: js/activity.js:3821
 msgid "Restore all items"
-msgstr ""
+msgstr "सभी आइटम पुनर्स्थापित करें"
 
 #: js/activity.js:4379
 msgid "Click the run button to run the project."
@@ -634,11 +634,11 @@ msgstr "JSON इनपुट को पार्स नहीं कर सक�
 
 #: js/activity.js:5987
 msgid "Select is enabled."
-msgstr ""
+msgstr "चयन सक्षम है|"
 
 #: js/activity.js:5987
 msgid "Select is disabled."
-msgstr ""
+msgstr "चयन अक्षम है|"
 
 #: js/activity.js:6369
 #: js/activity.js:6475
@@ -652,7 +652,7 @@ msgstr "अमान्य पैरामीटर्स"
 
 #: js/activity.js:6963
 msgid "Error regenerating palettes. Please refresh the page."
-msgstr ""
+msgstr "पैलेट पुनः बनाने में त्रुटि हुई। कृपया पृष्ठ को ताज़ा करें।"
 
 #: js/block.js:1576
 #: js/block.js:1695
@@ -828,7 +828,7 @@ msgstr "मौन अवरोध हटाया नहीं जा सकत�
 #: js/block.js:3135
 #: js/piemenus.js:3457
 msgid "You can restore deleted blocks from the trash with the Restore From Trash button."
-msgstr ""
+msgstr "आप ट्रैश से पुनर्स्थापित करें बटन का उपयोग करके ट्रैश से हटाए गए ब्लॉकों को पुनर्स्थापित कर सकते हैं।"
 
 #: js/block.js:3765
 #: js/blocks.js:2607
@@ -941,11 +941,11 @@ msgstr "एक संख्या नहीं"
 
 #: js/block.js:4418
 msgid "Octave value must be between 1 and 8."
-msgstr ""
+msgstr "अष्टक मान 1 से 8 के बीच होना चाहिए|"
 
 #: js/block.js:4426
 msgid "Numbers can have at most 10 digits."
-msgstr ""
+msgstr "असंख्याएँ अधिकतम 10 अंक की हो सकती हैं।"
 
 #: js/blocks.js:1212
 #: js/blocks.js:3444
@@ -1045,7 +1045,7 @@ msgstr "मान"
 
 #: js/blocks.js:4465
 msgid "Forever loop detected inside a note value block. Unexpected things may happen."
-msgstr ""
+msgstr "नोट वैल्यू ब्लॉक के अंदर फॉरएवर लूप का पता चला है। अप्रत्याशित चीजें हो सकती हैं।"
 
 #: js/blocks.js:4988
 msgid "There is no block selected."
